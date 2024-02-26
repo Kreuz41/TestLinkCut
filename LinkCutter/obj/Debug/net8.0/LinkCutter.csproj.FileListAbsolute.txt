@@ -102,3 +102,4 @@ C:\Job\DotNet\LinkCutter\LinkCutter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.W
 C:\Job\DotNet\LinkCutter\LinkCutter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Job\DotNet\LinkCutter\LinkCutter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Job\DotNet\LinkCutter\LinkCutter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Job\DotNet\LinkCutter\LinkCutter\obj\Debug\net8.0\LinkCutter.sourcelink.json

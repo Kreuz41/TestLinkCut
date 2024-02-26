@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkCutter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc0d27312f99b23bfb197b57fce4f889b4ddb3e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkCutter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkCutter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

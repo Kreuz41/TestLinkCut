@@ -4,4 +4,6 @@
     build:
       context: .
       dockerfile: LinkCutter/Dockerfile
+    ports:
+      - 5000:5050
     env_file: .env
