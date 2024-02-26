@@ -4,3 +4,4 @@
     build:
       context: .
       dockerfile: LinkCutter/Dockerfile
+    env_file: .env
