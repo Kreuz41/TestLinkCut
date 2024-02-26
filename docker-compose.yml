@@ -1,0 +1,6 @@
+﻿services:
+  linkcutter:
+    image: linkcutter
+    build:
+      context: .
+      dockerfile: LinkCutter/Dockerfile
